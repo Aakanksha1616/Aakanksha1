@@ -1,0 +1,18 @@
+.navbar{
+    &-brand{
+        margin-left: 100px;
+        color: white;
+
+    }
+    .searchBtn{
+        width: 780px;
+
+    }
+    .loginBtn{
+        width: 100px;
+        border: 1px solid white;
+        color: blue;
+        background-color: white;
+        height: 30px;
+    }
+}
